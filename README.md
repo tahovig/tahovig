@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Theodore "Alex" Hovig. Thanks for visiting!
-- 👀 I’m interested in backend software development, data engineering, cloud computing, and machine learning.
-- 🌱 I’m currently learning GPT prompt engneering.
-- 💞️ I’m looking to collaborate on projects that have correlation with the above or other novel tech stacks.
+- 👀 I’m interested in software development, cybersecurity, cloud computing, and artificial intelligence.
+- 🌱 I’m currently rolling out my cybersecurity project portfolio.
+- 💞️ I’m looking to collaborate on projects that solve a novel problem.
 - 📫 I can be reached here or at tahovig@gmail.com.
