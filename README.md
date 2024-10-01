@@ -51,5 +51,5 @@ My journey has included responsibilities related to various cybersecurity functi
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/tahovig/detection-lab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
