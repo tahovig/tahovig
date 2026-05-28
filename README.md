@@ -1,10 +1,28 @@
 # Hello, I'm Theodore "Alex" Hovig.
 <a href="https://linkedin.com/in/tahovig"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I worked in the technology sector for nearly 20 years. My roles have primarily been in software development, but I also have a strong foundation in cybersecurity, systems administration and system engineering, both in Windows and Linux environments.
+I don’t just build intelligent connections; I defend them.
 
-## Objective
-My journey has included responsibilities related to various cybersecurity functions, including a role at a major electric utility as a Security Analyst, where I was tasked with automating the security patching of critical workstations and servers. This sparked an interest that has scratched my brain to this day, and I am not seeking to pivot into a full-time security role.
+In the world of critical energy infrastructure, security isn't an afterthought—it’s survival. I spent years at the front lines with NV Energy, where I was responsible for protecting the generation, transmission, and distribution systems that power the state of Nevada. Maintaining 99.999% system reliability meant that downtime was restricted to less than 5.25 minutes per year, requiring a relentless focus on high availability and threat resilience.
+
+One of my proudest achievements was architecting an automated patching and evidentiary process for systems under strict NERC CIP standards. By replacing manual cycles with secure automation, I eliminated 80% of the staff overhead while significantly hardening the environment against vulnerabilities.
+
+Today, as a Senior Integration Engineer at Pacific Clinics, I bring that mission-critical mindset to the digital backbone of California’s largest non-profit behavioral healthcare provider. I am currently preparing for the CompTIA Security+ certification to formalize a career dedicated to securing complex API ecosystems across MuleSoft, Salesforce, and AWS.
+
+## Core Strategic Focus
+Next-Gen AI & Automation: Leveraging Python and Machine Learning to architect Agentic AI workflows that move beyond static integrations toward autonomous, self-monitoring systems.
+
+Defensive Architecture: Designing secure, scalable service layers and API gateways that prioritize data integrity and "zero-trust" principles.
+
+Regulatory Compliance: Deep experience navigating high-stakes regulatory environments, including NERC CIP, through security automation and IAM enforcement.
+
+Vulnerability Management: Proactive identification and mitigation of attack surfaces using SIEM, network monitoring, and vulnerability platforms.
+
+Current Technical Stack & Credentials:
+
+Core Systems: MuleSoft, Salesforce, AWS, Python, Java, PowerShell.
+Certifications: Google Cybersecurity Professional Certificate  | CompTIA Security+ (In Progress).
+
 
 ## Skills
 
