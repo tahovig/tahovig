@@ -31,6 +31,7 @@ Hands-on security tooling projects, built end to end (design, implementation, te
 | [poc-osint](https://github.com/tahovig/poc-osint) | Automated subdomain recon tool — crt.sh certificate transparency enumeration, concurrent liveness checks, security-header/fingerprint analysis |
 | [poc-logids](https://github.com/tahovig/poc-logids) | Go-based log intrusion detection tool — SSH brute-force detection with live-tail monitoring, deployed and verified against a real internet-facing honeypot |
 | [poc-scada](https://github.com/tahovig/poc-scada) | DNP3/ICS-SCADA protocol analysis tool (in progress) — grounded in critical infrastructure protection experience |
+| [poc-emstime](https://github.com/tahovig/poc-emstime) | ML pipeline for power-grid timing-anomaly detection — µPMU synchrophasor ingestion, synthetic fault injection, Isolation Forest scoring, validated against real LBNL data; includes a FastAPI/React reporting layer |
 
 ## Skills
 
@@ -42,6 +43,8 @@ Hands-on security tooling projects, built end to end (design, implementation, te
 | Real-Time Log Monitoring Pipelines | [poc-logids](https://github.com/tahovig/poc-logids) |
 | Honeypot Deployment & Hardening | [poc-logids](https://github.com/tahovig/poc-logids) |
 | ICS/SCADA Protocol Analysis (DNP3) | [poc-scada](https://github.com/tahovig/poc-scada) *(in progress)* |
+| Time-Series Anomaly Detection (ML) | [poc-emstime](https://github.com/tahovig/poc-emstime) |
+| Power-Grid Telemetry / µPMU Data Pipelines | [poc-emstime](https://github.com/tahovig/poc-emstime) |
 | NERC CIP Compliance & Security Automation | NV Energy (professional) |
 
 ## Certifications
