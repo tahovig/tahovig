@@ -33,6 +33,14 @@ Hands-on security tooling projects, built end to end (design, implementation, te
 | [poc-scada](https://github.com/tahovig/poc-scada) | DNP3/ICS-SCADA protocol deep-packet inspection tool — dangerous function-code and select-before-operate violation detection, grounded in critical infrastructure protection experience |
 | [poc-emstime](https://github.com/tahovig/poc-emstime) | ML pipeline for power-grid timing-anomaly detection — µPMU synchrophasor ingestion, synthetic fault injection, Isolation Forest scoring, validated against real LBNL data; includes a FastAPI/React reporting layer |
 
+## Systems & Algorithms Engineering
+
+Other hands-on engineering work, outside the cybersecurity focus above:
+
+| Project | What it does |
+|---------|---------------|
+| [sketch-ops](https://github.com/tahovig/sketch-ops) | Rust benchmark suite for streaming heavy-hitter sketches (Count-Min, Space-Saving, HeavyKeeper) plus PeelSketch, a novel sketch implemented and rigorously validated against the baselines — including publishing the negative result when it didn't win |
+
 ## Skills
 
 | Skill | Demonstrated In |
