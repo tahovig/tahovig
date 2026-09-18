@@ -33,6 +33,14 @@ Hands-on security tooling projects, built end to end (design, implementation, te
 | [poc-scada](https://github.com/tahovig/poc-scada) | DNP3/ICS-SCADA protocol deep-packet inspection tool — dangerous function-code and select-before-operate violation detection, grounded in critical infrastructure protection experience |
 | [poc-emstime](https://github.com/tahovig/poc-emstime) | ML pipeline for power-grid timing-anomaly detection — µPMU synchrophasor ingestion, synthetic fault injection, Isolation Forest scoring, validated against real LBNL data; includes a FastAPI/React reporting layer |
 
+## Integration Engineering
+
+API-led and event-driven integration work, matching my day-to-day stack (MuleSoft, Salesforce):
+
+| Project | What it does |
+|---------|---------------|
+| [poc-ansa-biotech](https://github.com/tahovig/poc-ansa-biotech) | MuleSoft API-led integration demo (Experience/Process/System APIs) against a live Salesforce org — a DNA-synthesis order and fulfillment pipeline with sequence feasibility scoring, event-driven instrument telemetry over ActiveMQ, and a live STOMP-over-WebSocket dashboard; runs locally via Docker Compose |
+
 ## Systems & Algorithms Engineering
 
 Other hands-on engineering work, outside the cybersecurity focus above:
